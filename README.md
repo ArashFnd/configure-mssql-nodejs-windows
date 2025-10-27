@@ -32,5 +32,25 @@ This guide covers every step carefully so you can:
 
 ---
 
+## ⚙️ Step 1 — Install SQL Server and SSMS
+1. Download **SQL Server** from [Microsoft’s official page](https://www.microsoft.com/en-us/sql-server/sql-server-downloads).
+2. Install **SQL Server Management Studio (SSMS)**.
+3. Open SSMS and connect to your local server.
+4. Enable SQL authentication and set a strong password for the `sa` user.
+
+---
+
+## 🔌 Step 2 — Configure Network and Authentication
+- Enable TCP/IP in **SQL Server Configuration Manager**.
+- Restart the SQL Server service.
+- Make sure your firewall allows connections on port **1433**.
+
+---
+
+## 🧩 Step 3 — Install Node.js and MSSQL Driver
+```bash
+npm init -y
+npm install mssql
+
 ## 🏷️ Keywords
 `nodejs` `mssql` `sql-server` `windows` `ssms` `database` `backend` `configuration`
