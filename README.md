@@ -58,6 +58,7 @@ npm install mssql
 ## 🧩 Step 4 — Checkout below links for any problem
 - https://medium.com/zero-equals-false/how-to-connect-node-js-app-with-sql-server-18a176afae46
 - https://medium.com/@makhshif.tanvir/resolving-the-user-group-or-role-already-exists-in-the-current-database-microsoft-sql-server-ea277f07ba97
+- https://ardalis.com/sql-server-error-user-group-or-role-already-exists-in-the-current-database/
 
 ## 🏷️ Keywords
 `nodejs` `mssql` `sql-server` `windows` `ssms` `database` `backend` `configuration`
