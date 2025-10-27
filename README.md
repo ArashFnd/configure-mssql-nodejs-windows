@@ -52,5 +52,12 @@ This guide covers every step carefully so you can:
 npm init -y
 npm install mssql
 
+---
+
+## 🧩 Step 4 — Checkout below links for any problem
+```bash
+- [(https://medium.com/zero-equals-false/how-to-connect-node-js-app-with-sql-server-18a176afae46)](https://medium.com/zero-equals-false/how-to-connect-node-js-app-with-sql-server-18a176afae46)
+- [(https://www.microsoft.com/en-us/sql-server/sql-server-downloads)](https://medium.com/@makhshif.tanvir/resolving-the-user-group-or-role-already-exists-in-the-current-database-microsoft-sql-server-ea277f07ba97)
+
 ## 🏷️ Keywords
 `nodejs` `mssql` `sql-server` `windows` `ssms` `database` `backend` `configuration`
