@@ -51,6 +51,7 @@ This guide covers every step carefully so you can:
 ```bash
 npm init -y
 npm install mssql
+```
 
 ---
 
